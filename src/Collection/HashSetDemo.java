@@ -14,6 +14,7 @@ public class HashSetDemo {
         set.add(23);
 //        set.add(32);
         set.add(50);
+
         System.out.println(set);
 
 

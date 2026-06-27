@@ -5,40 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d394372f-729c-4e3c-ab2c-50522f80f056" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/AverageOfElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/Check_ArraySorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/CommonElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/ConsecutiveOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/DifferenceBtwMaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/DuplicateUsingSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/FirstOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/Frequency_in_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/LastOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/LowerBound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/MaxConsecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/MaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/NumberRepeation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/SecoundLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/Sort012_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/ThreeGreatQ29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/UpperBound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/arrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/leftShiftInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/mergeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/twoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/HashSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/LinkListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/ListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/SetLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/StackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/StudentList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/TreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Question/BothFirstLastOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Question/MaximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Question/SeprateWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/HollowSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/NumberTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/RevTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/SquarePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/DemoArraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/DemoArraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/HashSetDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/patterns/SpiralMatrix.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -80,21 +61,30 @@
     "Application.Frequency_in_array.executor": "Run",
     "Application.HashMap.executor": "Run",
     "Application.HashSetDemo.executor": "Run",
+    "Application.HollowSquare.executor": "Run",
     "Application.LastOccurrence.executor": "Run",
     "Application.LinkListDemo.executor": "Run",
     "Application.ListIterator.executor": "Run",
     "Application.LowerBound.executor": "Run",
     "Application.MaxConsecutive.executor": "Run",
     "Application.MaxMin.executor": "Run",
+    "Application.MaximumSubArray.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.NumberRepeation.executor": "Run",
+    "Application.NumberTriangle.executor": "Run",
+    "Application.Pyramid.executor": "Run",
+    "Application.RevTriangle.executor": "Run",
     "Application.SecoundLargest.executor": "Run",
+    "Application.SeprateWords.executor": "Run",
     "Application.SetLinkedList.executor": "Run",
     "Application.Sort012_31.executor": "Run",
+    "Application.SpiralMatrix.executor": "Run",
+    "Application.SquarePattern.executor": "Run",
     "Application.StackDemo.executor": "Run",
     "Application.StudentList.executor": "Run",
     "Application.ThreeGreatQ29.executor": "Run",
     "Application.TreeSet.executor": "Run",
+    "Application.Triangle.executor": "Run",
     "Application.UpperBound.executor": "Run",
     "Application.arrayReverse.executor": "Run",
     "Application.leftShiftInArray.executor": "Run",
@@ -104,7 +94,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/OneDrive/Desktop/javaCode/BMS",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -112,13 +105,13 @@
       <recent name="Array_Question" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UpperBound">
-    <configuration name="FirstOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Question.FirstOccurrence" />
+  <component name="RunManager" selected="Application.SpiralMatrix">
+    <configuration name="NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.NumberTriangle" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Question.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Question.LastOccurrence" />
+    <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.Pyramid" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Question.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowerBound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Question.LowerBound" />
+    <configuration name="RevTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.RevTriangle" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Question.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeGreatQ29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Question.ThreeGreatQ29" />
+    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.SpiralMatrix" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Question.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpperBound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Question.UpperBound" />
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.Triangle" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Question.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,13 +173,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UpperBound" />
-        <item itemvalue="Application.LowerBound" />
-        <item itemvalue="Application.LastOccurrence" />
-        <item itemvalue="Application.FirstOccurrence" />
-        <item itemvalue="Application.ThreeGreatQ29" />
+        <item itemvalue="Application.SpiralMatrix" />
+        <item itemvalue="Application.Pyramid" />
+        <item itemvalue="Application.NumberTriangle" />
+        <item itemvalue="Application.RevTriangle" />
+        <item itemvalue="Application.Triangle" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -213,8 +213,39 @@
       <option name="project" value="LOCAL" />
       <updated>1762177831773</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="done">
+      <option name="closed" value="true" />
+      <created>1764055749765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764055749765</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="done" />
