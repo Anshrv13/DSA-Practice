@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d394372f-729c-4e3c-ab2c-50522f80f056" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/BothFirstLastOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Question/MaximumSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Question/SeprateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/HollowSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/NumberTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/RevTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/SquarePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Question/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Question/IntegertoRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Question/RomanToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Question/StringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Question/zigzagString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/HashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/HashSetDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,65 +41,79 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayList.executor": "Run",
-    "Application.AverageOfElement.executor": "Run",
-    "Application.Check_ArraySorted.executor": "Run",
-    "Application.CommonElement.executor": "Run",
-    "Application.ConsecutiveOne.executor": "Run",
-    "Application.DemoArraylist.executor": "Run",
-    "Application.DifferenceBtwMaxMin.executor": "Run",
-    "Application.DuplicateInSet.executor": "Run",
-    "Application.FirstOccurrence.executor": "Run",
-    "Application.Frequency_in_array.executor": "Run",
-    "Application.HashMap.executor": "Run",
-    "Application.HashSetDemo.executor": "Run",
-    "Application.HollowSquare.executor": "Run",
-    "Application.LastOccurrence.executor": "Run",
-    "Application.LinkListDemo.executor": "Run",
-    "Application.ListIterator.executor": "Run",
-    "Application.LowerBound.executor": "Run",
-    "Application.MaxConsecutive.executor": "Run",
-    "Application.MaxMin.executor": "Run",
-    "Application.MaximumSubArray.executor": "Run",
-    "Application.MissingNumber.executor": "Run",
-    "Application.NumberRepeation.executor": "Run",
-    "Application.NumberTriangle.executor": "Run",
-    "Application.Pyramid.executor": "Run",
-    "Application.RevTriangle.executor": "Run",
-    "Application.SecoundLargest.executor": "Run",
-    "Application.SeprateWords.executor": "Run",
-    "Application.SetLinkedList.executor": "Run",
-    "Application.Sort012_31.executor": "Run",
-    "Application.SpiralMatrix.executor": "Run",
-    "Application.SquarePattern.executor": "Run",
-    "Application.StackDemo.executor": "Run",
-    "Application.StudentList.executor": "Run",
-    "Application.ThreeGreatQ29.executor": "Run",
-    "Application.TreeSet.executor": "Run",
-    "Application.Triangle.executor": "Run",
-    "Application.UpperBound.executor": "Run",
-    "Application.arrayReverse.executor": "Run",
-    "Application.leftShiftInArray.executor": "Run",
-    "Application.mergeArray.executor": "Run",
-    "Application.twoSum.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DELL/OneDrive/Desktop/javaCode/BMS",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AverageOfElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Check_ArraySorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsecutiveOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoArraylist.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DifferenceBtwMaxMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateInSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstOccurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Frequency_in_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HollowSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LastOccurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkListDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListIterator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LowerBound.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxConsecutive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumSubArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberRepeation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecoundLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SeprateWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort012_31.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquarePattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeGreatQ29.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UpperBound.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrayReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.leftShiftInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mergeArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.twoSum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/OneDrive/Desktop/javaCode/BMS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Array_Question" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpiralMatrix">
+  <component name="RunManager" selected="Application.MergeSortedArray">
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Question.MergeSortedArray" />
+      <module name="DSA_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Question.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.NumberTriangle" />
       <module name="DSA_Practice" />
@@ -158,26 +166,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.Triangle" />
-      <module name="DSA_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSortedArray" />
         <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application.Pyramid" />
         <item itemvalue="Application.NumberTriangle" />
         <item itemvalue="Application.RevTriangle" />
-        <item itemvalue="Application.Triangle" />
       </list>
     </recent_temporary>
   </component>
